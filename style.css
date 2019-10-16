@@ -155,13 +155,13 @@ color: white;
 }
 
 
-#Video{
+#video{
     background:#bfd1b9;
     width: 680px;
     float: left;
     margin-bottom: 10px;
   }
-#Video h2{
+#video h2{
     background:#bfd1b9;
     width: 680px;
     float: left;
@@ -174,13 +174,13 @@ color: white;
     float: left;
     margin-right: 10px;
   }
-#Video2 div{
+#video2 div{
     background:#d8f3d0;
     width: 335px;
     height: 100px;
     float: left;
   }
-  #Video2 div:nth-child(2){
+  #video2 div:nth-child(2){
     margin: 10px 0px;
   }
 #giaVangTyGia{
