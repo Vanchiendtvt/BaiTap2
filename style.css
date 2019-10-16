@@ -70,7 +70,7 @@ li {
     line-height: 30px;
     list-style-type: none;
     padding-left: 25px;
-    background: #aad862 url(menuDot.gif) 13px 10px no-repeat;
+    background: #aad862 url(images/menuDot.gif) 13px 10px no-repeat;
     border-bottom: #78b43d solid 1px;
     position: relative;
     text-align: left;
@@ -95,7 +95,7 @@ position: absolute;
     position: absolute;
     }
 #menu>li:hover>ul>li:hover {
-background: #78b43d url(menuDot.gif) 13px 10px no-repeat; 
+background: #78b43d url(images/menuDot.gif) 13px 10px no-repeat; 
 }
 #menu>li>ul>li>ul>li{
     background: #78b43d;
